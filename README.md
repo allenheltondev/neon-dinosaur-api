@@ -6,7 +6,7 @@ This repo is for demonstration purposes and is intended to be a lighthearted, fu
 
 ## Entity Relation Diagram
 
-<div class="mermaid">
+```mermaid
 erDiagram
     DINOSAURS ||--o{ PERIOD : "has"
     DINOSAURS ||--o{ LOCATION : "exists_in"
@@ -52,7 +52,7 @@ erDiagram
         int naming_id FK "Foreign Key to NAMING"
         int species_id FK "Foreign Key to SPECIES"
     }
-</div>
+```
 
 ## Helpful resources
 
