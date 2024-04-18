@@ -1,0 +1,48 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  SAM template for testing Neon Postgres
+
+Globals:
+  Function:
+    Runtime: nodejs20.x
+    Architectures:
+      - arm64
+    Tracing: Active
+    Timeout: 5
+    MemorySize: 1024
+    Handler: index.handler
+    Environment:
+      Variables:
+        AWS_NODEJS_CONNECTION_REUSE_ENABLED: 1
+
+Resources:
+  NeonSecret:
+    Type: AWS::SecretsManager::Secret
+    Properties:
+      SecretString:
+        Fn::Sub:
+          - |-
+            {
+              "neon": "${NeonApiKey}"
+            }
+          - NeonApiKey: !Ref NeonApiKey
+
+  NeonApiFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: functions
+      Policies:
+        - AWSLambdaBasicExecutionRole
+        - Version: 2012-10-17
+          Statement:
+            - Effect: Allow
+              Action: secretsmanager:GetSecretValue
+              Resource: !Ref NeonSecret
+      FunctionUrlConfig:
+        AuthType: NONE
+
+Outputs:
+  APIUrl:
+    Description: Url used for the API
+    Value: !GetAtt NeonApiFunction.FunctionUrl

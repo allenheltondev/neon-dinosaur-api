@@ -1,0 +1,310 @@
+name,diet,length,type,period_id,location_id,taxonomy_id,species_id
+aardonyx,herbivorous,8.0m,sauropod,1,1,1,1
+abelisaurus,carnivorous,9.0m,large theropod,2,2,2,2
+achelousaurus,herbivorous,6.0m,ceratopsian,3,3,3,3
+achillobator,carnivorous,5.0m,large theropod,4,4,4,4
+acrocanthosaurus,carnivorous,12.0m,large theropod,5,3,5,5
+aegyptosaurus,herbivorous,15.0m,sauropod,6,5,6,6
+afrovenator,carnivorous,9.0m,large theropod,7,6,7,7
+agilisaurus,herbivorous,1.5m,euornithopod,8,7,8,8
+alamosaurus,herbivorous,21.0m,sauropod,9,3,9,9
+albertaceratops,herbivorous,7.0m,ceratopsian,10,3,10,10
+albertosaurus,carnivorous,9.0m,large theropod,11,8,11,11
+alectrosaurus,carnivorous,5.0m,large theropod,12,4,12,12
+alioramus,carnivorous,6.0m,large theropod,13,4,12,13
+allosaurus,carnivorous,12.0m,large theropod,14,3,13,14
+alvarezsaurus,carnivorous,2.0m,small theropod,15,2,14,15
+amargasaurus,herbivorous,12.0m,sauropod,16,2,15,16
+ammosaurus,herbivorous,5.0m,sauropod,17,3,16,17
+ampelosaurus,herbivorous,15.0m,sauropod,13,9,9,18
+amygdalodon,herbivorous,15.0m,sauropod,18,2,17,19
+anchiceratops,herbivorous,6.0m,ceratopsian,2,8,18,20
+anchisaurus,herbivorous,2.0m,sauropod,19,3,16,21
+ankylosaurus,herbivorous,7.0m,armoured dinosaur,20,3,19,22
+anserimimus,carnivorous,3.5m,large theropod,21,4,20,23
+antarctosaurus,herbivorous,18.0m,sauropod,21,10,9,24
+apatosaurus,herbivorous,21.0m,sauropod,22,3,21,25
+aragosaurus,herbivorous,18.0m,sauropod,7,11,17,26
+aralosaurus,herbivorous,8.0m,euornithopod,23,12,22,27
+archaeoceratops,herbivorous,1.3m,ceratopsian,24,7,23,28
+archaeopteryx,carnivorous,0.5m,small theropod,25,13,24,29
+archaeornithomimus,carnivorous,3.5m,small theropod,26,14,20,30
+argentinosaurus,herbivorous,35.0m,sauropod,27,2,6,31
+arrhinoceratops,herbivorous,6.0m,ceratopsian,28,8,18,32
+atlascopcosaurus,herbivorous,3.0m,euornithopod,29,15,8,33
+aucasaurus,carnivorous,5.0m,large theropod,30,2,25,34
+austrosaurus,herbivorous,15.0m,sauropod,31,15,6,35
+avaceratops,herbivorous,2.3m,ceratopsian,10,3,3,36
+avimimus,omnivorous,1.5m,small theropod,10,4,26,37
+bactrosaurus,herbivorous,6.0m,euornithopod,30,7,27,38
+bagaceratops,herbivorous,1.0m,ceratopsian,32,4,28,39
+bambiraptor,carnivorous,1.0m,small theropod,30,3,4,40
+barapasaurus,herbivorous,14.0m,sauropod,33,16,29,41
+barosaurus,herbivorous,24.0m,sauropod,34,3,21,42
+baryonyx,carnivorous,10.0m,large theropod,35,17,30,43
+becklespinax,carnivorous,5.0m,large theropod,36,17,31,44
+beipiaosaurus,omnivorous,2.0m,small theropod,37,7,32,45
+bellusaurus,herbivorous,5.0m,sauropod,38,7,33,46
+borogovia,carnivorous,1.5m,small theropod,21,4,34,47
+brachiosaurus,herbivorous,30.0m,sauropod,39,3,35,48
+brachylophosaurus,herbivorous,7.0m,euornithopod,40,3,22,49
+brachytrachelopan,herbivorous,10.0m,sauropod,41,2,15,50
+buitreraptor,carnivorous,1.3m,small theropod,42,2,36,51
+camarasaurus,herbivorous,23.0m,sauropod,43,3,37,52
+camptosaurus,herbivorous,5.0m,euornithopod,34,3,38,53
+carcharodontosaurus,carnivorous,15.0m,large theropod,44,18,5,54
+carnotaurus,carnivorous,7.6m,large theropod,45,2,39,55
+caudipteryx,omnivorous,1.0m,small theropod,46,7,40,56
+cedarpelta,herbivorous,10.0m,armoured dinosaur,47,3,19,57
+centrosaurus,herbivorous,6.0m,ceratopsian,11,8,3,58
+ceratosaurus,carnivorous,6.0m,large theropod,48,3,41,59
+cetiosauriscus,herbivorous,15.0m,sauropod,49,17,42,60
+cetiosaurus,herbivorous,18.0m,sauropod,50,17,29,61
+chaoyangsaurus,herbivorous,1.1m,ceratopsian,51,7,23,62
+chasmosaurus,herbivorous,5.0m,ceratopsian,11,8,18,63
+chindesaurus,carnivorous,4.0m,small theropod,52,3,43,64
+chinshakiangosaurus,herbivorous,11.0m,sauropod,53,7,44,65
+chirostenotes,omnivorous,1.7m,small theropod,54,8,45,66
+chubutisaurus,herbivorous,23.0m,sauropod,31,2,6,67
+chungkingosaurus,herbivorous,4.0m,armoured dinosaur,53,7,46,68
+citipati,omnivorous,2.1m,small theropod,55,4,47,69
+coelophysis,carnivorous,2.0m,small theropod,56,19,48,70
+coelurus,carnivorous,1.8m,small theropod,34,3,49,71
+coloradisaurus,omnivorous,4.0m,sauropod,57,2,50,72
+compsognathus,carnivorous,0.65m,small theropod,58,13,51,73
+conchoraptor,carnivorous,1.5m,small theropod,59,4,52,74
+confuciusornis,carnivorous,0.25m,small theropod,37,7,53,75
+corythosaurus,herbivorous,10.0m,euornithopod,11,3,54,76
+cryolophosaurus,carnivorous,8.0m,large theropod,60,20,55,77
+dacentrurus,herbivorous,6.0m,armoured dinosaur,61,17,56,78
+daspletosaurus,carnivorous,9.0m,large theropod,11,8,57,79
+datousaurus,herbivorous,15.0m,sauropod,62,7,44,80
+deinocheirus,omnivorous,10.0m,large theropod,63,4,58,81
+deinonychus,carnivorous,3.0m,small theropod,64,3,4,82
+deltadromeus,carnivorous,8.1m,large theropod,65,21,49,83
+dicraeosaurus,herbivorous,20.0m,sauropod,66,22,15,84
+dilophosaurus,carnivorous,6.0m,large theropod,19,3,59,85
+diplodocus,herbivorous,26.0m,sauropod,34,3,21,86
+dromaeosaurus,carnivorous,1.8m,small theropod,11,3,4,87
+dromiceiomimus,omnivorous,3.5m,large theropod,2,8,20,88
+dryosaurus,herbivorous,4.0m,euornithopod,39,3,60,89
+dryptosaurus,carnivorous,6.4m,large theropod,21,3,12,90
+dubreuillosaurus,carnivorous,,large theropod,67,9,7,91
+edmontonia,herbivorous,4.0m,armoured dinosaur,11,8,61,92
+edmontosaurus,herbivorous,13.0m,euornithopod,68,8,22,93
+einiosaurus,herbivorous,6.0m,ceratopsian,69,3,3,94
+elaphrosaurus,carnivorous,6.2m,large theropod,70,22,41,95
+emausaurus,herbivorous,2.0m,armoured dinosaur,71,13,62,96
+eolambia,herbivorous,,euornithopod,65,3,63,97
+eoraptor,carnivorous,1.0m,small theropod,72,2,64,98
+eotyrannus,carnivorous,5.0m,large theropod,37,17,12,99
+equijubus,herbivorous,,euornithopod,73,7,63,100
+erketu,herbivorous,15.0m,sauropod,74,4,6,101
+erlikosaurus,omnivorous,3.4m,small theropod,75,4,65,102
+euhelopus,herbivorous,10.0m,sauropod,76,7,17,103
+euoplocephalus,herbivorous,7.0m,armoured dinosaur,77,3,19,104
+europasaurus,herbivorous,6.2m,sauropod,70,13,33,105
+eustreptospondylus,carnivorous,7.0m,large theropod,78,17,7,106
+fukuiraptor,carnivorous,4.2m,large theropod,24,23,55,107
+fukuisaurus,herbivorous,4.7m,euornithopod,24,23,63,108
+gallimimus,omnivorous,6.0m,large theropod,2,4,20,109
+gargoyleosaurus,herbivorous,4.0m,armoured dinosaur,76,3,66,110
+garudimimus,omnivorous,4.7m,large theropod,75,4,58,111
+gasosaurus,carnivorous,4.0m,small theropod,50,7,67,112
+gasparinisaura,herbivorous,0.8m,euornithopod,79,2,8,113
+gastonia,herbivorous,4.6m,armoured dinosaur,47,3,66,114
+giganotosaurus,carnivorous,12.5m,large theropod,80,2,5,115
+gilmoreosaurus,herbivorous,6.0m,euornithopod,77,7,27,116
+giraffatitan,herbivorous,23.0m,sauropod,76,22,35,117
+gobisaurus,herbivorous,5.0m,armoured dinosaur,24,7,19,118
+gorgosaurus,carnivorous,8.6m,large theropod,81,3,11,119
+goyocephale,herbivorous,2.0m,large theropod,55,4,68,120
+graciliceratops,herbivorous,,ceratopsian,4,4,23,121
+gryposaurus,herbivorous,10.0m,euornithopod,79,3,22,122
+guaibasaurus,herbivorous,1.8m,small theropod,57,24,64,123
+guanlong,carnivorous,3.0m,small theropod,82,7,12,124
+hadrosaurus,herbivorous,9.0m,euornithopod,83,3,22,125
+hagryphus,omnivorous,3.0m,small theropod,84,25,69,126
+haplocanthosaurus,herbivorous,21.5m,sauropod,76,3,37,127
+harpymimus,omnivorous,2.0m,small theropod,24,4,58,128
+herrerasaurus,carnivorous,3.0m,small theropod,72,2,43,129
+hesperosaurus,herbivorous,6.0m,armoured dinosaur,76,3,46,130
+heterodontosaurus,herbivorous,1.2m,euornithopod,85,1,70,131
+heyuannia,omnivorous,2.0m,small theropod,86,4,52,132
+homalocephale,herbivorous,1.5m,euornithopod,86,4,71,133
+huayangosaurus,herbivorous,4.5m,armoured dinosaur,50,7,72,134
+hylaeosaurus,herbivorous,5.0m,armoured dinosaur,87,17,66,135
+hypacrosaurus,herbivorous,9.0m,euornithopod,45,3,54,136
+hypsilophodon,herbivorous,2.3m,euornithopod,35,17,73,137
+iguanodon,herbivorous,10.0m,euornithopod,88,17,63,138
+indosuchus,carnivorous,7.0m,large theropod,13,16,41,139
+irritator,carnivorous,6.5m,large theropod,31,24,74,140
+isisaurus,herbivorous,,sauropod,13,16,9,141
+janenschia,herbivorous,20.0m,sauropod,70,22,6,142
+jaxartosaurus,herbivorous,9.0m,euornithopod,23,12,54,143
+jingshanosaurus,herbivorous,5.0m,sauropod,89,7,75,144
+jinzhousaurus,herbivorous,,euornithopod,37,7,63,145
+jobaria,herbivorous,21.0m,sauropod,90,6,33,146
+juravenator,carnivorous,0.8m,small theropod,70,13,51,147
+kentrosaurus,herbivorous,5.0m,armoured dinosaur,91,22,46,148
+khaan,omnivorous,1.8m,small theropod,55,4,52,149
+kotasaurus,herbivorous,9.0m,sauropod,92,16,44,150
+kritosaurus,herbivorous,8.0m,euornithopod,83,3,22,151
+lambeosaurus,herbivorous,9.0m,euornithopod,11,8,54,152
+lapparentosaurus,herbivorous,,sauropod,93,26,76,153
+leaellynasaura,herbivorous,2.0m,euornithopod,94,15,8,154
+leptoceratops,herbivorous,3.0m,ceratopsian,95,3,77,155
+lesothosaurus,herbivorous,,1.0m,96,27,10,156
+liaoceratops,herbivorous,,ceratopsian,37,7,23,157
+ligabuesaurus,herbivorous,24.0m,sauropod,24,2,6,158
+liliensternus,carnivorous,5.0m,small theropod,97,13,78,159
+lophorhothon,herbivorous,4.5m,euornithopod,30,3,22,160
+lophostropheus,carnivorous,6.2m,large theropod,98,9,79,161
+lufengosaurus,herbivorous,6.0m,sauropod,99,7,50,162
+lurdusaurus,herbivorous,9.0m,euornithopod,100,6,63,163
+lycorhinus,herbivorous,1.2m,euornithopod,101,1,70,164
+magyarosaurus,herbivorous,5.0m,sauropod,13,28,9,165
+maiasaura,herbivorous,9.0m,euornithopod,10,3,22,166
+majungasaurus,carnivorous,6.0m,large theropod,30,26,39,167
+malawisaurus,herbivorous,9.0m,sauropod,100,29,9,168
+mamenchisaurus,herbivorous,22.0m,sauropod,34,7,17,169
+mapusaurus,carnivorous,13.0m,large theropod,65,2,80,170
+marshosaurus,carnivorous,6.0m,large theropod,76,3,67,171
+masiakasaurus,carnivorous,2.0m,small theropod,30,26,25,172
+massospondylus,omnivorous,4.0m,sauropod,102,19,50,173
+maxakalisaurus,herbivorous,13.0m,sauropod,103,24,81,174
+megalosaurus,carnivorous,9.0m,large theropod,104,17,82,175
+melanorosaurus,omnivorous,12.0m,sauropod,105,1,83,176
+metriacanthosaurus,carnivorous,8.2m,large theropod,82,17,31,177
+microceratus,herbivorous,0.5m,ceratopsian,106,4,77,178
+micropachycephalosaurus,herbivorous,0.6m,ceratopsian,30,7,84,179
+microraptor,carnivorous,0.8m,small theropod,46,7,4,180
+minmi,herbivorous,3.0m,armoured dinosaur,100,15,66,181
+monolophosaurus,carnivorous,5.7m,large theropod,38,7,55,182
+mononykus,unknown,1.0m,small theropod,107,4,14,183
+mussaurus,herbivorous,3.0m,sauropod,57,2,50,184
+muttaburrasaurus,herbivorous,7.0m,euornithopod,108,15,63,185
+nanshiungosaurus,omnivorous,4.4m,large theropod,30,7,65,186
+nedoceratops,herbivorous,7.0m,ceratopsian,95,3,18,187
+nemegtosaurus,herbivorous,13.0m,sauropod,86,4,85,188
+neovenator,carnivorous,7.4m,large theropod,37,17,5,189
+neuquenosaurus,herbivorous,10.0m,sauropod,13,2,86,190
+nigersaurus,herbivorous,15.0m,sauropod,24,30,87,191
+nipponosaurus,herbivorous,,euornithopod,109,31,54,192
+noasaurus,carnivorous,1.0m,small theropod,21,2,25,193
+nodosaurus,herbivorous,5.0m,armoured dinosaur,108,3,61,194
+nomingia,omnivorous,1.6m,small theropod,86,4,45,195
+nothronychus,omnivorous,5.3m,large theropod,110,3,65,196
+nqwebasaurus,carnivorous,1.0m,small theropod,111,1,49,197
+omeisaurus,herbivorous,20.0m,sauropod,112,7,17,198
+opisthocoelicaudia,herbivorous,12.0m,sauropod,86,4,86,199
+ornitholestes,carnivorous,2.0m,small theropod,113,3,49,200
+ornithomimus,omnivorous,4.0m,large theropod,114,3,20,201
+orodromeus,herbivorous,2.0m,euornithopod,69,3,8,202
+oryctodromeus,herbivorous,2.1m,euornithopod,65,3,10,203
+othnielia,herbivorous,1.4m,euornithopod,76,3,8,204
+ouranosaurus,herbivorous,7.0m,euornithopod,115,6,63,205
+oviraptor,omnivorous,2.0m,small theropod,116,4,47,206
+pachycephalosaurus,herbivorous,8.0m,euornithopod,68,3,88,207
+pachyrhinosaurus,herbivorous,6.0m,ceratopsian,11,8,3,208
+panoplosaurus,herbivorous,7.0m,armoured dinosaur,117,3,61,209
+pantydraco,herbivorous,3.0m,euornithopod,118,32,79,210
+paralititan,herbivorous,28.0m,sauropod,65,5,9,211
+parasaurolophus,herbivorous,11.0m,euornithopod,11,3,54,212
+parksosaurus,herbivorous,3.0m,euornithopod,11,8,8,213
+patagosaurus,herbivorous,18.0m,sauropod,119,2,29,214
+pelicanimimus,carnivorous,2.0m,small theropod,37,11,58,215
+pelorosaurus,herbivorous,25.0m,sauropod,35,17,76,216
+pentaceratops,herbivorous,6.8m,ceratopsian,11,3,18,217
+piatnitzkysaurus,carnivorous,4.2m,large theropod,120,2,7,218
+pinacosaurus,herbivorous,5.0m,armoured dinosaur,55,4,19,219
+plateosaurus,herbivorous,7.0m,sauropod,121,33,50,220
+podokesaurus,carnivorous,0.9m,small theropod,122,3,89,221
+poekilopleuron,carnivorous,9.0m,large theropod,93,9,82,222
+polacanthus,herbivorous,5.0m,armoured dinosaur,35,17,66,223
+prenocephale,herbivorous,2.4m,euornithopod,123,4,88,224
+probactrosaurus,herbivorous,6.0m,euornithopod,24,7,63,225
+proceratosaurus,carnivorous,4.1m,small theropod,93,17,49,226
+procompsognathus,carnivorous,1.0m,small theropod,57,13,89,227
+prosaurolophus,herbivorous,7.6m,euornithopod,124,3,22,228
+protarchaeopteryx,carnivorous,2.0m,small theropod,125,7,90,229
+protoceratops,herbivorous,1.8m,ceratopsian,2,4,77,230
+protohadros,herbivorous,6.0m,euornithopod,65,3,63,231
+psittacosaurus,herbivorous,2.0m,ceratopsian,126,31,91,232
+quaesitosaurus,herbivorous,23.0m,sauropod,127,4,85,233
+rebbachisaurus,herbivorous,20.0m,sauropod,31,21,87,234
+rhabdodon,herbivorous,4.0m,euornithopod,77,11,92,235
+rhoetosaurus,herbivorous,15.0m,sauropod,18,15,44,236
+rinchenia,omnivorous,2.5m,small theropod,86,4,47,237
+riojasaurus,herbivorous/omnivorous,5.15m,sauropod,57,2,83,238
+rugops,carnivorous,7.0m,large theropod,128,6,39,239
+saichania,herbivorous,6.6m,armoured dinosaur,103,4,19,240
+saltasaurus,herbivorous,12.0m,sauropod,9,2,86,241
+saltopus,carnivorous,,small theropod,57,17,93,242
+sarcosaurus,carnivorous,3.0m,small theropod,129,17,94,243
+saurolophus,herbivorous,9.0m,euornithopod,2,4,22,244
+sauropelta,herbivorous,6.5m,armoured dinosaur,130,3,61,245
+saurophaganax,carnivorous,12.0m,large theropod,76,3,13,246
+saurornithoides,carnivorous,3.0m,small theropod,32,4,34,247
+scelidosaurus,herbivorous,4.0m,armoured dinosaur,131,17,95,248
+scutellosaurus,herbivorous,1.2m,armoured dinosaur,132,3,62,249
+secernosaurus,herbivorous,3.0m,euornithopod,13,2,27,250
+segisaurus,carnivorous,1.5m,small theropod,122,3,48,251
+segnosaurus,carnivorous,4.0m,large theropod,133,4,65,252
+shamosaurus,herbivorous,,armoured dinosaur,24,4,19,253
+shanag,carnivorous,0.45m,small theropod,134,4,79,254
+shantungosaurus,herbivorous,15.0m,euornithopod,83,7,22,255
+shunosaurus,herbivorous,10.0m,sauropod,50,7,17,256
+shuvuuia,omnivorous,0.6m,small theropod,135,4,14,257
+silvisaurus,herbivorous,4.0m,armoured dinosaur,100,3,61,258
+sinocalliopteryx,carnivorous,2.37m,small theropod,35,7,79,259
+sinornithosaurus,carnivorous,2.0m,small theropod,125,7,4,260
+sinosauropteryx,carnivorous,1.0m,small theropod,125,7,51,261
+sinovenator,carnivorous,1.0m,small theropod,37,7,34,262
+sinraptor,carnivorous,7.6m,large theropod,136,7,96,263
+sonidosaurus,herbivorous,9.0m,sauropod,137,7,6,264
+spinosaurus,carnivorous,18.0m,large theropod,26,21,74,265
+staurikosaurus,carnivorous,2.0m,large theropod,105,24,43,266
+stegoceras,herbivorous,2.4m,euornithopod,11,3,88,267
+stegosaurus,herbivorous,9.0m,armoured dinosaur,34,3,46,268
+stenopelix,herbivorous,1.5m,ceratopsian,37,13,84,269
+struthiomimus,omnivorous,4.0m,small theropod,11,8,20,270
+struthiosaurus,herbivorous,2.5m,armoured dinosaur,138,11,61,271
+styracosaurus,herbivorous,5.5m,ceratopsian,77,3,3,272
+suchomimus,carnivorous,11.0m,large theropod,100,6,30,273
+supersaurus,herbivorous,35.0m,sauropod,139,3,21,274
+talarurus,herbivorous,6.0m,armoured dinosaur,75,4,19,275
+tanius,herbivorous,,euornithopod,137,7,27,276
+tarbosaurus,carnivorous,10.0m,large theropod,2,4,57,277
+tarchia,herbivorous,8.5m,armoured dinosaur,140,4,97,278
+telmatosaurus,herbivorous,5.0m,euornithopod,21,11,27,279
+tenontosaurus,herbivorous,7.0m,euornithopod,64,3,98,280
+thecodontosaurus,omnivorous,2.5m,sauropod,141,17,99,281
+therizinosaurus,unknown,,large theropod,142,4,65,282
+thescelosaurus,herbivorous,3.5m,euornithopod,143,3,8,283
+torosaurus,herbivorous,7.5m,ceratopsian,9,3,18,284
+torvosaurus,carnivorous,10.0m,large theropod,144,3,82,285
+triceratops,herbivorous,9.0m,ceratopsian,145,3,18,286
+troodon,carnivorous,2.0m,small theropod,114,3,34,287
+tsagantegia,herbivorous,,armoured dinosaur,4,4,19,288
+tsintaosaurus,herbivorous,12.0m,euornithopod,30,7,54,289
+tuojiangosaurus,herbivorous,7.0m,armoured dinosaur,146,7,46,290
+tylocephale,herbivorous,1.4m,euornithopod,147,4,88,291
+tyrannosaurus,carnivorous,12.0m,large theropod,145,3,57,292
+udanoceratops,herbivorous,,ceratopsian,55,4,23,293
+unenlagia,carnivorous,2.4m,small theropod,148,2,4,294
+urbacodon,carnivorous,1.0m,small theropod,128,14,79,295
+utahraptor,carnivorous,6.0m,large theropod,149,3,4,296
+valdosaurus,herbivorous,3.0m,euornithopod,150,17,60,297
+velociraptor,carnivorous,1.8m,small theropod,2,4,4,298
+vulcanodon,herbivorous,6.5m,sauropod,132,19,100,299
+yandusaurus,herbivorous,3.0m,euornithopod,112,7,8,300
+yangchuanosaurus,carnivorous,10.0m,large theropod,151,7,96,301
+yimenosaurus,herbivorous,9.0m,sauropod,152,7,99,302
+yingshanosaurus,herbivorous,,armoured dinosaur,53,7,101,303
+yinlong,herbivorous,1.2m,ceratopsian,153,7,102,304
+yuanmousaurus,herbivorous,17.0m,sauropod,38,7,17,305
+yunnanosaurus,omnivorous,7.0m,sauropod,89,7,75,306
+zalmoxes,herbivorous,3.0m,euornithopod,154,28,92,307
+zephyrosaurus,herbivorous,1.8m,euornithopod,64,3,8,308
+zuniceratops,herbivorous,,ceratopsian,110,3,77,309
